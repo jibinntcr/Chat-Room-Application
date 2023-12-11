@@ -7,7 +7,7 @@ This project is a fully functional Chat application built using React.js and Fir
 ## Author
 
 - **Author:** Jibin N
-- **Email:** jibinn@mulearn
+- **ID:** jibinn@mulearn
 
 ## Technologies Used
 
